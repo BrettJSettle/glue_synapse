@@ -5,7 +5,7 @@ entry_points = """
 cluster=glue_synapse.cluster:setup"""
 
 setup(name='glue-synapse',
-      version='1.1',
+      version='1.2',
       description='Synapse localization clustering and analysis for Glue. Uses DBSCAN clustering algorithm to group channels and display centroid distances.',
       url='http://www.thesettleproject.com',
       author='Brett Settle',
